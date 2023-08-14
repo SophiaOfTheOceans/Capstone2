@@ -1,4 +1,4 @@
-# Capstone Project 2: Weekly Sales Forecasting of Walmart Stores
+# Weekly Sales Forecasting of Walmart Stores
  
 Walmart is a global supermarket chain, and it has an annual revenue of 500 billion dollars, making it one of the largest retailers in the world. In this capstone project, I forecasted the weekly revenue of different Walmart store-department combinations using a random forest model, as well as others, trained with past information about past sales and other factors such as the local fuel price and unemployment rate of the store. 
 
